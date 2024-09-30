@@ -56,11 +56,13 @@ After training, the models were tested on the held-out 20% of the data. The segm
 - **U-Net IoU**: Higher due to better edge preservation.
 - **Custom Model IoU**: Lower due to inaccuracies, especially at image borders.
 
-### Example Overlays:
+
+  ### Example Overlays:
 - **U-Net Overlay**:
-    ![U-Net Result](U-net_model_overlay.png)
+  <img src="U-net_model_overlay.png" alt="U-Net Overlay" width="400"/>
+  
 - **Custom Model Overlay**:
-    ![Custom Model Result](Custom_model_overlay.png)
+  <img src="Custom_model_overlay.png" alt="Custom Model Overlay" width="400"/>
 
 ## Requirements
 
