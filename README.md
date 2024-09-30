@@ -59,10 +59,10 @@ After training, the models were tested on the held-out 20% of the data. The segm
 
   ### Example Overlays:
 - **U-Net Overlay**:
-  <img src="U-net_model_overlay.png" alt="U-Net Overlay" width="400"/>
+  <img src="U-net_model_overlay.png" alt="U-Net Overlay" width="200"/>
   
 - **Custom Model Overlay**:
-  <img src="Custom_model_overlay.png" alt="Custom Model Overlay" width="400"/>
+  <img src="Custom_model_overlay.png" alt="Custom Model Overlay" width="200"/>
 
 ## Requirements
 
